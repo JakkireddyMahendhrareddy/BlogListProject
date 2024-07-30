@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.userInfo-img {
+  height: 13vh;
+  width: 8vw;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: normal;
+}
